@@ -1,0 +1,32 @@
+gatto
+cane
+pesce rosso
+leone
+tigre - 5
+elefante
+giraffa
+cavallo
+scimmia
+uccellino -10
+gabbiano
+delfino
+polipo
+criceto
+pappagallo -15
+rana
+serpente
+volpe
+gallina
+orso -20
+coniglio
+cervo
+puzzola
+gufo
+rondine -25
+ippopotamo
+farfalla
+ape
+balena
+granchio -30
+mucca
+pecora
